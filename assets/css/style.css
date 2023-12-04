@@ -38,7 +38,7 @@ header h2{
 }
  .navbar i{
    background: transparent;
-   height: 50%;
+   height: 52%;
    color: whitesmoke;
    width: 20%;
 } 
@@ -98,6 +98,9 @@ section{
     color:var(--main-color);
     font-size:4rem ;
     text-transform: uppercase;
+}
+.content h5{
+    height: 15%;
 }
 .content .info{
     font-size: 2rem;
@@ -248,16 +251,16 @@ section{
 }
 .eduction .box-container{
     display: flex;
-    height: 60vh;
+    height: 72vh;
 }
 .eduction .box{
-    height: 35vh;
+    height: 70vh;
     position: relative;
     border-left: .2rem solid var(--main-color);
     padding-left: 2rem;
 }
 .eduction .content{
-    height: 35vh;
+    height: 70vh;
 }
 .eduction p{
     height: 20vh;
